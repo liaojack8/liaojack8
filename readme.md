@@ -1,6 +1,6 @@
 ### Hey 👋
 
-* I'm a NTUT student/developer/geeker/maker/3C fans from Taipei,Taiwan.
+* I'm a NTUT student/developer/geeker/maker/3C fans from Taipei, Taiwan.
 
 ### Tech Stack 💻
 

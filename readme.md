@@ -7,19 +7,19 @@
 <table>
 <tbody>
 <td align="center" width="20%">
-<img height=60px src="https://www.gstatic.com/devrel-devsite/prod/vbf66214f2f7feed2e5d8db155bab9ace53c57c494418a1473b23972413e0f3ac/cloud/images/cloud-logo.svg"> 
+<img height=60px src="./pic/googlecloud.svg"> 
 </td>
 
 <td align="center" width="10%">
-<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1024px-Logo-ubuntu_cof-orange-hex.svg.png"> 
+<img height=60px src="./pic/ubuntulinux.png"> 
 </td>
 
 <td align="center" width="25%">
-<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1920px-Docker_%28container_engine%29_logo.svg.png"> 
+<img height=60px src="./pic/docker.png"> 
 </td>
 
 <td align="center" width="20%">
-<img height=60px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
+<img height=60px src="./pic/git.png"> 
 </td>    
 </tr>
 

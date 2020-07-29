@@ -7,19 +7,19 @@
 <table>
 <tbody>
 <td align="center" width="20%">
-<img height=60px src="./pic/googlecloud.svg"> 
+<img height=60px src="https://raw.githubusercontent.com/liaojack8/liaojack8/master/pic/googlecloud.svg"> 
 </td>
 
 <td align="center" width="10%">
-<img height=60px src="./pic/ubuntulinux.png"> 
+<img height=60px src="https://raw.githubusercontent.com/liaojack8/liaojack8/master/pic/ubuntulinux.png"> 
 </td>
 
 <td align="center" width="25%">
-<img height=60px src="./pic/docker.png"> 
+<img height=60px src="https://raw.githubusercontent.com/liaojack8/liaojack8/master/pic/docker.png"> 
 </td>
 
 <td align="center" width="20%">
-<img height=60px src="./pic/git.png"> 
+<img height=60px src="https://raw.githubusercontent.com/liaojack8/liaojack8/master/pic/git.png"> 
 </td>    
 </tr>
 

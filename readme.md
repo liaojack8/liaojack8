@@ -1,12 +1,36 @@
-### Hey 👋
-
-* I'm a NTUT student/developer/geeker/maker/3C fans from Taipei, Taiwan.
-
-### About Me
+<center>
+### <center>Hey 👋</center>
+#### I'm a NTUT student/developer/geeker/maker/3C fans from Taipei, Taiwan.
+### <center>About Me</center>
 | <a href="https://www.etcw.cf"><img src="https://raw.githubusercontent.com/liaojack8/liaojack8/master/pic/jack.png" width="180px" height="180px" /></a> |
 | :---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[Jack Liao](https://www.etcw.cf)**       |
 |</a> <a href="https://github.com/liaojack8"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="30px" height="30px"></a> <a href="https://www.instagram.com/lec.tw/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="30px" height="30px"></a> <a href="https://www.linkedin.com/in/liaojack8/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30px" height="30px"></a>|
+
+### My GitHub Stats (Only Public Contributions 😑)
+
+![](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=liaojack8&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=liaojack8&show_icons=true&title_color=fff&icon_color=fe428e&text_color=9f9f9f&bg_color=151515)
+
+<a href="https://github.com/liaojack8/gd-utils-cht">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=liaojack8&repo=gd-utils-cht&show_owner=true" />
+</a>
+<a href="https://github.com/liaojack8/LineTVParser">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=liaojack8&repo=LineTVParser&show_owner=true" />
+</a>
+<a href="https://github.com/liaojack8/ASUS-Z390F-Hack">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=liaojack8&repo=ASUS-Z390F-Hack&show_owner=true" />
+</a>
+<a href="https://github.com/liaojack8/MSI-H97-Hack">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=liaojack8&repo=MSI-H97-Hack&show_owner=true" />
+</a>
+<a href="https://github.com/liaojack8/LevelDB-httpServer">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=liaojack8&repo=LevelDB-httpServer&show_owner=true" />
+</a>
+<a href="https://github.com/liaojack8/YCSB-LevelDB">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=liaojack8&repo=YCSB-LevelDB&show_owner=true" />
+</a>
+
 
 ### Tech Stack 💻
 
@@ -28,9 +52,6 @@
 <img height=60px src="https://raw.githubusercontent.com/liaojack8/liaojack8/master/pic/git.png"> 
 </td>    
 </tr>
-
-
-
 </tbody>
 </table>
 
@@ -48,9 +69,3 @@
 [![ubuntu](https://img.shields.io/badge/Ubuntu-7B1BB3?style=flat&logo=ubuntu&link=https://github.com/liaojack8)](https://github.com/liaojack8)
 
 [![Docker](https://img.shields.io/badge/Docker-orange?style=flat&logo=docker&link=https://github.com/liaojack8)](https://github.com/liaojack8)
-
-### My GitHub Stats (Only Public Contributions 😑)
-
-![](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=liaojack8&theme=dark)
-
-![](https://github-readme-stats.vercel.app/api?username=liaojack8&show_icons=true&title_color=fff&icon_color=fe428e&text_color=9f9f9f&bg_color=151515)

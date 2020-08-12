@@ -1,7 +1,11 @@
 <center>
-### <center>Hey 👋</center>
+
+### Hey 👋
+
 #### I'm a NTUT student/developer/geeker/maker/3C fans from Taipei, Taiwan.
-### <center>About Me</center>
+
+### About Me
+
 | <a href="https://www.etcw.cf"><img src="https://raw.githubusercontent.com/liaojack8/liaojack8/master/pic/jack.png" width="180px" height="180px" /></a> |
 | :---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[Jack Liao](https://www.etcw.cf)**       |
@@ -69,3 +73,5 @@
 [![ubuntu](https://img.shields.io/badge/Ubuntu-7B1BB3?style=flat&logo=ubuntu&link=https://github.com/liaojack8)](https://github.com/liaojack8)
 
 [![Docker](https://img.shields.io/badge/Docker-orange?style=flat&logo=docker&link=https://github.com/liaojack8)](https://github.com/liaojack8)
+
+</center>

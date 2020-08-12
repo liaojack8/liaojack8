@@ -1,5 +1,3 @@
-<center>
-
 ### Hey 👋
 
 #### I'm a NTUT student/developer/geeker/maker/3C fans from Taipei, Taiwan.
@@ -73,5 +71,3 @@
 [![ubuntu](https://img.shields.io/badge/Ubuntu-7B1BB3?style=flat&logo=ubuntu&link=https://github.com/liaojack8)](https://github.com/liaojack8)
 
 [![Docker](https://img.shields.io/badge/Docker-orange?style=flat&logo=docker&link=https://github.com/liaojack8)](https://github.com/liaojack8)
-
-</center>

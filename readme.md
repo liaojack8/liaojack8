@@ -43,15 +43,15 @@
 </td>
 
 <td align="center" width="10%">
-<img height=60px src="https://raw.githubusercontent.com/liaojack8/liaojack8/master/pic/ubuntulinux.png"> 
+<img height=60px src="https://raw.githubusercontent.com/liaojack8/liaojack8/master/pic/ubuntulinux.svg"> 
 </td>
 
 <td align="center" width="25%">
-<img height=60px src="https://raw.githubusercontent.com/liaojack8/liaojack8/master/pic/docker.png"> 
+<img height=60px src="https://raw.githubusercontent.com/liaojack8/liaojack8/master/pic/docker.svg"> 
 </td>
 
 <td align="center" width="20%">
-<img height=60px src="https://raw.githubusercontent.com/liaojack8/liaojack8/master/pic/git.png"> 
+<img height=60px src="https://raw.githubusercontent.com/liaojack8/liaojack8/master/pic/git.svg"> 
 </td>    
 </tr>
 </tbody>

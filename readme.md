@@ -7,7 +7,7 @@
 | <a href="https://www.etcw.cf"><img src="https://raw.githubusercontent.com/liaojack8/liaojack8/master/pic/jack.png" width="180px" height="180px" /></a> |
 | :---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[Jack Liao](https://www.etcw.cf)**       |
-|</a> <a href="https://github.com/liaojack8"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="30px" height="30px"></a> <a href="https://www.instagram.com/lec.tw/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="30px" height="30px"></a> <a href="https://www.linkedin.com/in/liaojack8/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30px" height="30px"></a>|
+|<a href="https://github.com/liaojack8"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="30px" height="30px"></a> <a href="https://www.instagram.com/lec.tw/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="30px" height="30px"></a> <a href="https://www.linkedin.com/in/liaojack8/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30px" height="30px"></a>|
 
 ### My GitHub Stats (Only Public Contributions 😑)
 
